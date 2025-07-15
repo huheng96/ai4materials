@@ -1,3 +1,3 @@
 # ai4materials
-Here are the main codes for "Constructing combinatorial descriptors for interpretable and reliable machine learning: a case study in perovskite piezoceramics".
+Here are the main codes for "Interpretable machine learning for perovskite piezoceramics using combinatorial and knowledge-embedded descriptors". (Updating)
 Please contact heng_hu@nuaa.edu.cn if there's any question.
